@@ -1,0 +1,6 @@
+{
+  "include": ["*.js", "**/*.js", "./p5/global.d.ts"],
+  "compilerOptions": {
+    "checkJs": true
+  }
+}
