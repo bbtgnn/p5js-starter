@@ -2,8 +2,8 @@
   "include": [
     "*.js",
     "**/*.js",
-    "./p5/global.d.ts",
-    "./p5/lib/addons/p5.sound.d.ts"
+    "./p5/types/global.d.ts",
+    "./p5/types/lib/addons/p5.sound.d.ts"
   ],
   "compilerOptions": {
     "checkJs": true
